@@ -1,7 +1,7 @@
 ### Hey there! :wave:
 
 I'm **Nilay Mehta**, from _Ahemdabad, India_.<br />
-A Software Engineer specializing in JavaScript, dotnet technologies, as well as Azure. I have professional experience with the technologies listed in the below **Tech stack** section. I create content about Web Development with JavaScript and dotnet. <br />
+A Software Engineer specializing in JavaScript, dotnet technologies, as well as Azure. I have professional experience with the technologies listed in the below **Tech stack** section. I create content about Web Development with JavaScript and dotnet. You can **find me on [LinkedIn][linkedin]**.<br />
 
 I'm enjoying sharing that knowledge through [Blog][blog] and [Youtube channel][youtube].
 Looking forward to reaching and helping more people by sharing my knowledge.
@@ -49,7 +49,7 @@ I'd advise you to subscribe to stay up-to-date!
 
 ---
 
-<img alt="mehtanilay10's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehtanilay10&count_private=true&show_icons=true" />
+<img alt="mehtanilay10's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehtanilay10&count_private=true&show_icons=true&theme=nord" />
 
 [website]: https://www.mnilay.com/
 [blog]: https://blog.mnilay.com/
@@ -58,3 +58,4 @@ I'd advise you to subscribe to stay up-to-date!
 [stackoverflow]: https://stackoverflow.com/users/2251733
 [youtube]: https://youtube.com/c/TutorialsTeam
 [udemy]: https://www.udemy.com/user/nilay-mehta-3/
+[linkedin]: https://www.linkedin.com/in/mehtanilay10/

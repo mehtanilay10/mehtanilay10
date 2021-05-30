@@ -35,11 +35,11 @@ I'd advise you to subscribe to stay up-to-date!
 ### Latest YouTube Videos :tv:
 
 <!-- YOUTUBE_VIDEOS_LIST:START -->
+- [Use Redux Thunk along with Axios service in React (CRA)](https://www.youtube.com/watch?v=a6uC2EauAZ4)
 - [Load data from TextFile | Part - 16 | Machine Learning with ML.Net for Absolute Beginners](https://www.youtube.com/watch?v=t_E4PlAi_tQ)
 - [Save Model | Part - 24 | Machine Learning with ML.Net for Absolute Beginners](https://www.youtube.com/watch?v=ruzVJ5JSrXQ)
 - [Conversion: Convert & Hash | Part - 47 | Machine Learning with ML.Net for Absolute Beginners](https://www.youtube.com/watch?v=P4jHLBHbwzs)
 - [What is ML.Net? | Part - 04 | Machine Learning with ML.Net for Absolute Beginners](https://www.youtube.com/watch?v=cquYWudoUeU)
-- [Evaluate Model: with Test Dataset | Part - 11 | Machine Learning with ML.Net for Absolute Beginners](https://www.youtube.com/watch?v=yIOeNPikoV0)
 <!-- YOUTUBE_VIDEOS_LIST:END -->
 
 View more on my [Youtube channel][youtube].
